@@ -1,6 +1,6 @@
 # Hi there 👋
-## 🐧 Linux runner
-## 🔭 I’m currently working on my text engine
+### 🐧 Linux runner
+### 🔭 I’m currently working on my text engine
 
 <!--
 **quant0x2/quant0x2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
