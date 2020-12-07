@@ -1,5 +1,5 @@
 # Hi there 👋
-### 🐧 Linux runner
+### 🏃‍ Linux runner and sometimes macOS runner
 ### 🔭 I’m currently working on my text engine
 ### 🔬 I like to research everything that associated with programming 
 
