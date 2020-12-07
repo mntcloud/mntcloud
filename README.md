@@ -3,7 +3,7 @@
 ### 🔭 I’m currently working on my text engine
 ### 🔬 I like to research everything that associated with programming 
 
-![Naruto]("https://media1.tenor.com/images/5917526c0ef2100e56c139b6e4d36e40/tenor.gif?itemid=5677612")
+![Naruto](https://media1.tenor.com/images/5917526c0ef2100e56c139b6e4d36e40/tenor.gif?itemid=5677612)
 
 <!--
 **quant0x2/quant0x2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
