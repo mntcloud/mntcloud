@@ -1,8 +1,4 @@
 # Hi there 👋
-### 🏃‍ Linux runner and sometimes macOS runner
-### 🌱  I’m currently learning network protocols 
-### 🔬 I like to research everything that associated with programming 
-
 ![Naruto](https://media1.tenor.com/images/5917526c0ef2100e56c139b6e4d36e40/tenor.gif?itemid=5677612)
 
 <!--
