@@ -1,1 +1,1 @@
-My projects graveyard and not yet sold to Google
+My projects graveyard and haven't been sold to Google yet
