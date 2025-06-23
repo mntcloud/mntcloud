@@ -1,1 +1,1 @@
-My projects graveyard and haven't been sold to Google yet
+### software doesn't need to be open-source to gain some authority
