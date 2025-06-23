@@ -1,1 +1,1 @@
-### software doesn't need to be open-source to gain some authority
+### software doesn't need to be open-source to gain some trust
